@@ -10,7 +10,7 @@
         <script><![CDATA[var CreateNewScript = Class.create();
 CreateNewScript.prototype = {
     initialize: function() {
-		
+		// test.....
 		
 		//yuyuyuy
     },
