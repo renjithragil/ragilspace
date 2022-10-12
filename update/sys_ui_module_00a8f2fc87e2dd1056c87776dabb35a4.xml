@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test">31261e554f08a6008d787bb28110c72a</application>
+        <filter/>
+        <name>Now Code Snippets</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_15216_test.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>renjith.ramachandran</sys_created_by>
+        <sys_created_on>2022-10-12 19:53:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>00a8f2fc87e2dd1056c87776dabb35a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Now Code Snippets</sys_name>
+        <sys_package display_value="Test" source="x_15216_test">f82696554f08a6008d787bb28110c7f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">f82696554f08a6008d787bb28110c7f1</sys_scope>
+        <sys_update_name>sys_ui_module_00a8f2fc87e2dd1056c87776dabb35a4</sys_update_name>
+        <sys_updated_by>renjith.ramachandran</sys_updated_by>
+        <sys_updated_on>2022-10-12 19:53:16</sys_updated_on>
+        <table>x_15216_test_now_code_snippets</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
