@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Test Table</label>
+        <live_feed_enabled>true</live_feed_enabled>
+        <name>x_15216_test_table</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">574ebf878720111056c87776dabb352a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-15 17:59:56</sys_created_on>
+        <sys_id>4315ae3887a2dd1056c87776dabb35af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Table</sys_name>
+        <sys_package display_value="Test" source="x_15216_test">f82696554f08a6008d787bb28110c7f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">f82696554f08a6008d787bb28110c7f1</sys_scope>
+        <sys_update_name>sys_db_object_4315ae3887a2dd1056c87776dabb35af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-15 17:59:56</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_15216_test.user" name="x_15216_test.user">4526da554f08a6008d787bb28110c7ff</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

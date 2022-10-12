@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Code Snippets" max_length="40" name="x_15216_test_code_snippets" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Script" max_length="8000" name="u_script" type="script"/>
+    </element>
+</database>
